@@ -1,0 +1,11 @@
+﻿  condition_parser.cpp
+  condition_parser_test.cpp
+  database.cpp
+  date.cpp
+  event_set.cpp
+  main.cpp
+  node.cpp
+  test_runner.cpp
+  token.cpp
+  Generating Code...
+  FinalProject.vcxproj -> D:\C++\Coursera\Yellow\FinalProject\Debug\FinalProject.exe
